@@ -8,8 +8,8 @@
 # the bump with a PAT — see RELEASING.md). Sparkle and Homebrew coexist: both
 # install the same notarized artifact.
 cask "prayer-times" do
-  version "0.4.0"
-  sha256 "d12226a4923a3a5c7f3170dbbe277097f3348633449658bef4fc118f194a364c"
+  version "0.5.0"
+  sha256 "974e7b5229fbb256a745750f10fcc9489007c0026eea3d8976c4f73ba2ebf9ee"
 
   url "https://github.com/tareq1988/prayer-times-macos/releases/download/v#{version}/PrayerTimes-#{version}.zip"
   name "Prayer Times"
